@@ -1,0 +1,136 @@
+@font-face {
+    font-family: 'dimor';
+    src: url('../fonts/Dimor.otf');
+}
+@font-face {
+    font-family: 'inline';
+    src: url('../fonts/DimorInlineA.otf');
+}
+.header_bg{
+    background-image: url('../images/BackgroundImage.png');
+}
+.header_btn{
+    background-color: red;
+}
+.links{
+    font-size: 1vw;
+    color: #bc9263;
+    font-family: 'dimor';
+}
+.order{
+    font-size: 1vw;
+    color: #bc9263;
+    font-family: 'dimor';
+}
+.number{
+    font-size: 1vw;
+    color: #bc9263;
+    font-family: 'dimor';
+}
+.header_text{
+    font-size: 4vw;
+    color: #bc9263;
+    font-family: 'inline';
+}
+.product_bg{
+    background-color: #271e15;
+    padding-bottom: 10px;
+}
+.heading{
+    font-size: 1vw;
+    color: #bc9263;
+    font-family: 'dimor';
+}
+.main_heading{
+    font-size: 3vw;
+    color: #bc9263;
+    font-family: 'inline';
+}
+.explaination{
+    font-size: 1vw;
+    color: #bc9263;
+    font-family: 'dimor';
+}
+.product_detail{
+    font-size: 1vw;
+    color: #bc9263;
+    font-family: 'dimor';
+}
+.product_name{
+    font-size: 2vw;
+    color: #bc9263;
+    font-family: 'dimor';
+}
+.deals_bg{
+    background-color: #1e170f;
+}
+.deals{
+    padding-top: 20px;
+}
+.upcoming_bg{
+    background-color: #0c0905;
+}
+.new{
+    font-size: 1vw;
+    color: #bc9263;
+    font-family: 'dimor';
+}
+.ff21{
+    font-size: 1vw;
+    color: #bc9263;
+    font-family: 'dimor';
+}
+..ff23{
+    font-size: 3vw;
+    color: #bc9263;
+    font-family: 'inline';
+}
+.events{
+    font-size: 3vw;
+    color: #bc9263;
+    font-family: 'inline';
+}
+.event_discription{
+    font-size: 1vw;
+    color: #bc9263;
+    font-family: 'dimor';
+}
+.event_items{
+    padding-top: 10px;
+}
+.table{
+    background-color: #030201;
+    
+}
+.for_table{
+    font-size: 1vw;
+    color: #bc9263;
+    font-family: 'dimor';
+}
+.book_table{
+    font-size: 3vw;
+    color: #c49764;
+    font-family: 'inline';
+}
+.labels{
+    background-color: black;
+    color: #c49764;
+    border-color: 1px solid;
+    width: 20vw;
+    height: 7vh;
+}
+.space_input{
+    display: inline-block;
+}
+/* .table_btn{
+    background-color: #c49764;
+
+} */
+
+/* 
+.footer_bg{
+
+}
+.img_bg{
+    background-image: url('../images/');
+} */
